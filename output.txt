@@ -1,0 +1,8 @@
+Enter the city name: Thodupuzha
+-------------------------------------------------------------
+Weather Stats for - THODUPUZHA  || 23 Jun 2021 | 10:52:33 AM
+-------------------------------------------------------------
+Current temperature is: 28.83 deg C
+Current weather desc  : overcast clouds
+Current Humidity      : 77 %
+Current wind speed    : 2.25 kmph
